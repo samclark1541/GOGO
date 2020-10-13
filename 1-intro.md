@@ -1,5 +1,5 @@
 ---
-title: 1-Intro
+title: about
 nav: true
 ---
 
@@ -23,7 +23,7 @@ GH-Pages is intended to host relatively simple sites for your GitHub portfolio, 
 Because using hosting through GH-Pages is free and builds valuable transferable skills, this is a great option for teaching and learning.
 Users have the opportunity to become creators and participants in global digital culture, developing critical digital literacy about the fabric of the web.
 
-Many organizations are using GitHub to collaboratively create and publish public websites. 
+Many organizations are using GitHub to collaboratively create and publish public websites.
 For example:
 
 - [Programming Historian](http://programminghistorian.org/){:target="_blank"}
@@ -36,14 +36,14 @@ For example:
 
 Unlike [WordPress](https://wordpress.com/){:target="_blank"} or [Drupal](https://www.drupal.org/){:target="_blank"}, gh-pages is not a content management system or dynamic web application.
 There is no database, server side language / processing, or admin interface.
-This is known as a [static web](https://en.wikipedia.org/wiki/Static_web_page){:target="_blank"} host. 
+This is known as a [static web](https://en.wikipedia.org/wiki/Static_web_page){:target="_blank"} host.
 HTML, CSS, and JS stored in the repository are served to the user without dynamic changes.
 
 In the olden days static web was the norm, but database driven dynamic web sites have dominated the last decade.
-Dynamic web applications enable features such as live comments, user authentication, and personalized streams. 
+Dynamic web applications enable features such as live comments, user authentication, and personalized streams.
 However, this functionality requires complex server-side infrastructure and processing.
 
-> `view-source:` one fascinating aspect of the web is that everyone must share code to participate. 
+> `view-source:` one fascinating aspect of the web is that everyone must share code to participate.
 > Right click on any web page and select "View page source" to see the code that is being rendered by the browser.
 > Right click on any element in the page and select "Inspect" or "Inspect Element" to open your browser's built in developer tools.
 > This is a great way to learn about HTML and to understand how others created the sites you use.
@@ -60,4 +60,4 @@ Static generators bundle together a stack of web development tools which are use
 [Jekyll](https://jekyllrb.com/){:target="_blank"} is one of the most popular and actively developed, in part because of its integration with gh-pages.
 *More on that later...*
 
-> Static Site Generators typically feature: command line interface; builtin development server; simplified markup based content; web templating language; CSS preprocessor; file-based data options; plugin extensibility. 
+> Static Site Generators typically feature: command line interface; builtin development server; simplified markup based content; web templating language; CSS preprocessor; file-based data options; plugin extensibility.
