@@ -8,17 +8,17 @@
 # - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
 
 # site settings
-title: go-go gh-pages!
-description: "Learn about GitHub pages and Jekyll."
+title: Sam Clark Tutoring
+description: "A maths and physics tutor for you."
 keywords: "github, github-pages, websites, static gen, hosting, html, workshop, gh-pages"
 
 # author settings for cc-by
-author: evan will
+author: sam clark
 pub_year: 2018
-github_username: evanwill
+github_username: samclark1541
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/go-go-ghpages"
+repo: "https://github.com/samclark1541/GOGO"
 
 # urls
 # your gh-pages url: https://username.github.io
