@@ -1,7 +1,5 @@
 ---
-title: 2-Basic
-nav: true
----
+title: Contact
 
 # GitHub Pages Basics
 
