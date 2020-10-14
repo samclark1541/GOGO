@@ -1,5 +1,7 @@
 ---
 title: Contact
+nav: true
+---
 
 # GitHub Pages Basics
 
