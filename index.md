@@ -6,7 +6,7 @@ A maths and physics tutor available for online tutoring.
 
 *Currently taking on students.*
 
-<button type="button" onclick="http://www.google.com">Contact</button>
+{% include button.html url="http://www.google.com" %}
 
 <div class="toc" markdown="1">
 ## Contents:
